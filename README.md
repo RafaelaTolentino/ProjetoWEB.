@@ -14,7 +14,7 @@ Trabalho para programação pra WEB em JavaScript.
 
 # 🐾 Petz Admin System
 
-**Sistema de gerenciamento para pet shop — construído com React + Node.js + MySQL**
+**Sistema de gerenciamento para pet shop — construído com React + Node.js
 
 <br/>
 
@@ -35,9 +35,9 @@ Frontend                    Backend
 ─────────────────────       ─────────────────────    
 ⚛️  React 19               🟢 Node.js             
 🔀 React Router DOM 6      🚂 Express 5             
-📡 Axios                   🔗 mysql2                
-🎨 Bootstrap 5             🌐 CORS                  
-💾 localStorage            🔄 Nodemon               
+📡 Axios                   🌐 CORS              
+🎨 Bootstrap 5             🔄 Nodemon                  
+💾 localStorage                         
 ```
 
 <div align="center">
